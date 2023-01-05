@@ -33,7 +33,7 @@
   "homepage": "https://github.com/vuejs/vue-next/tree/master/packages/compiler-sfc#readme",
   "dependencies": {
     "@babel/parser": "^7.16.4",
-    "@vue/compiler-core": "3.2.26",
+    "@vue/compiler-core": "3.2.45",
     "@vue/compiler-dom": "3.2.26",
     "@vue/compiler-ssr": "3.2.26",
     "@vue/reactivity-transform": "3.2.26",
